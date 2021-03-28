@@ -15,4 +15,5 @@ The data was pre-processed to drop unwanted data columns and null values to crea
 - ![Scatter Plot](https://github.com/ketpradh/Cryptocurrencies/blob/main/Resources/Scatter%20Plot.PNG)
 
 ## Summary
+The data was grouped into different clusters using Unsupervised learning algorithms and create visualizations using the Plotly Express functions.
   
