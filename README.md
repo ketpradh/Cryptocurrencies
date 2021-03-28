@@ -3,7 +3,7 @@
 This project creates a report to include the cryptocurrencies that are on the trading market and how they could be grouped to create a classification system for new investment.
 This is done using Pandas, Plotly Express and Unsupervised machine learning to preprocess and transform the data and create data visualizations.
 ## Results
-The data was pre-processed to drop unwanted data columns and null values using Pandas, reduce the data to include fewer dimensions using Principal Component Analysis(PCA), then passed onto Clustering Algorithms such as K-means algorithms to create visualizations.
+The [Cryptocurrency data](https://github.com/ketpradh/Cryptocurrencies/blob/main/Resources/crypto_data.csv) was pre-processed to drop unwanted data columns and null values using Pandas, reduce the data to include fewer dimensions using Principal Component Analysis(PCA), then passed onto Clustering Algorithms such as K-means algorithms to create visualizations.
 
 1. Elbow Curve for K-means 
 - ![Elbow Curve](https://github.com/ketpradh/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
