@@ -17,4 +17,6 @@ The data was pre-processed to drop unwanted data columns and null values using P
 ## Summary
 - The Cyptocurrency data was grouped into different clusters using Unsupervised learning Clustering algorithm and visualizations were created using the Plotly Express functions.
 - We find that, based on the given data, there were four clusters or groups into which the Cryptocurrency data can be divided. 
+- We find that maximum Cyrptocurrencies belonged to Class(group) "0"  with 288 records, followed by Class "1" with 238 records. Class "3" has 5 records.
+- We find the BitTorrent was the only one in it's class(2) and could not be grouped with other cryptocurrencies.
   
