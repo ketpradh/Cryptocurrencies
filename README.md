@@ -19,5 +19,5 @@ From the above analysis, we find that -
 - There were **four** clusters or groups [0-3] into which the Cryptocurrency data can be divided. 
 - Maximum Cyrptocurrencies belonged to Class(group) "0"  with **288** Cryptocurrency records, followed by Class "1" with **238** records. Class "3" has **5** records.
 - **BitTorrent** was the only one in it's class(2) and could not be grouped with other cryptocurrencies.
-- The Cyrptocurrencies can now be studied and further analyzed based on their groups, making it easier to make investment decisions for them.
+- The Cyrptocurrencies can now be studied and further analyzed in groups, making it easier for the user to make investment decisions.
   
