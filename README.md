@@ -8,15 +8,16 @@ The data was pre-processed to drop unwanted data columns and null values using P
 1. Elbow Curve for K-means 
 - ![Elbow Curve](https://github.com/ketpradh/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
 
-2. 3-D PLot
+2. 3-D PLot for Cryptocurrency data grouping
 -  ![3-D Plot](https://github.com/ketpradh/Cryptocurrencies/blob/main/Resources/Detailed%203-D%20Curve%20for%20Precitions.PNG)
  
-3. Scatter Plot
+3. Scatter Plot for Cryptocurrency data grouping
 - ![Scatter Plot](https://github.com/ketpradh/Cryptocurrencies/blob/main/Resources/Scatter%20Plot.PNG)
 
 ## Summary
-- The Cyptocurrency data was grouped into different clusters using Unsupervised learning Clustering algorithm and visualizations were created using the Plotly Express functions.
-- We find that, based on the given data, there were **four** clusters or groups into which the Cryptocurrency data can be divided. 
-- We find that maximum Cyrptocurrencies belonged to Class(group) "0"  with **288** Cryptocurrency records, followed by Class "1" with **238** records. Class "3" has **5** records.
-- We find the **BitTorrent** was the only one in it's class(2) and could not be grouped with other cryptocurrencies.
+From the above analysis, we find that -
+- There were **four** clusters or groups [0-3] into which the Cryptocurrency data can be divided. 
+- Maximum Cyrptocurrencies belonged to Class(group) "0"  with **288** Cryptocurrency records, followed by Class "1" with **238** records. Class "3" has **5** records.
+- **BitTorrent** was the only one in it's class(2) and could not be grouped with other cryptocurrencies.
+- The Cyrptocurrencies can now be studied and further analyzed based on their groups, making it easier to make investment decisions for them.
   
